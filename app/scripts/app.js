@@ -19,7 +19,7 @@ export default function app() {
     <Provider store={store}>
       <Router>
         <div>
-          <Nav />
+         
           <Route exact path="/" component={AppRoot} />
           <Route exact path="/about" component={About} />
           <Route exact path="/contact-us" component={Contact} />
