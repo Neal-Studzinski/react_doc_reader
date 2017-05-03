@@ -9,8 +9,8 @@ $big-font: 15rem;
 
 html {
     body {
-        margin: 0;
-        padding: 0;
+        margin: 2rem;
+        padding: 2rem;
         background: #CACACA;
     }
 }
@@ -20,9 +20,8 @@ html {
 }
 
 .document {
-    padding-left: 8rem;
-    padding-right: 8rem;
-    padding-bottom: 8rem;
     border: 1px solid black;
-    margin: 15rem;
+    margin-right: 15rem;
+    margin-left: 15rem;
+    padding: 5rem;
 }
